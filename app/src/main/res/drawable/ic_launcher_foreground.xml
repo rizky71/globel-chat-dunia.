@@ -1,0 +1,21 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Main wing fold -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M28,52 L80,28 L56,80 L48,60 Z" />
+        
+    <!-- Shaded flight fold for 3D depth -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M48,60 L80,28 L56,80 Z" />
+        
+    <!-- Tail keel fold -->
+    <path
+        android:fillColor="#0D9488"
+        android:pathData="M48,60 L42,70 L46,58 Z" />
+</vector>

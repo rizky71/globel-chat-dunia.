@@ -1,0 +1,6 @@
+{
+  "name": "Globel",
+  "description": "Aplikasi percakapan global dengan terjemahan real-time otomatis untuk berteman di seluruh dunia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
